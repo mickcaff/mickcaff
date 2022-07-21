@@ -1,6 +1,6 @@
 👋 Hi, I'm Mick.
 
- I am currently studying web development at Coder Academy's Fast Track Bootcamp in Brisbane. Due to graduate in August, 2022.
+ I am currently studying web development at Coder Academy in Brisbane. Due to graduate in November, 2022.
 
 Connect with me:
 
